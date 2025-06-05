@@ -21,13 +21,13 @@ I'm a passionate developer who loves building full-stack web applications and ex
   <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" style="margin-right:10px;" />
   <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="margin-right:10px;" />
   <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="margin-right:10px;" />
-  <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="margin-right:10px;" />
+  <img alt="GitHub" src="https://img.icons8.com/?size=100&id=efFfwotdkiU5&format=png&color=000000" width="40" height="40" style="margin-right:10px;" />
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin-right:10px;" />
-  <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40" style="margin-right:10px;" />
-  <img alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" style="margin-right:10px;" />
+  <img alt="Bootstrap" src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000" width="40" height="40" style="margin-right:10px;" />
+  <img alt="Tailwind CSS" src="https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000" width="40" height="40" style="margin-right:10px;" />
   <img alt="Socket.IO" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" height="40" style="margin-right:10px;" />
-  <img alt="EJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" width="40" height="40" style="margin-right:10px;" />
-  <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" style="margin-right:10px;" />
+  <img alt="EJS" src="https://img.icons8.com/?size=100&id=puL87ypQPxxr&format=png&color=000000" width="40" height="40" style="margin-right:10px;" />
+  <img alt="Express" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" width="40" height="40" style="margin-right:10px;" />
   <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="margin-right:10px;" />
   <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" style="margin-right:10px;" />
   <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" style="margin-right:10px;" />
@@ -35,11 +35,8 @@ I'm a passionate developer who loves building full-stack web applications and ex
   <img alt="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40" style="margin-right:10px;" />
   <img alt="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" style="margin-right:10px;" />
   <img alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" style="margin-right:10px;" />
-  <img alt="Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40" style="margin-right:10px;" />
-  <img alt="Canva" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Canva_Logo.png" width="40" height="40" style="margin-right:10px;" />
   <img alt="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" style="margin-right:10px;" />
-  <img alt="Render" src="https://render.com/favicon.ico" width="40" height="40" style="margin-right:10px;" />
-  <img alt="GSAP" src="https://greensock.com/wp-content/themes/greensock/images/gsap-icon.svg" width="40" height="40" />
+  
 </p>
 
 
