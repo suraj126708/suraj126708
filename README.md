@@ -48,9 +48,10 @@ I'm a passionate developer who loves building full-stack web applications and ex
 ## 🔨 Notable Projects
 
 - 🔧 **[DoorstepDonation](https://github.com/suraj126708/EDAI)** – A Node.js-based platform that enables item donations with doorstep pickup and reward system.
-- 📊 **MineSafe** – A worker safety and attendance tracking system for coal mines.
-- 🏥 **Smart Healthcare Appointment System** – A DBMS project to streamline doctor appointments.
-- 🏗 **Construction Monitoring System** – Tracks live construction progress using Mapbox API.
+- 📊 **[MineSafe](https://github.com/suraj126708/Coal-Mines-Worker-Safety-Website)** – A worker safety and attendance tracking system for coal mines.
+- 🏗 **[Construction Monitoring System](https://github.com/suraj126708/EDAI-SY-SEM_02/)** – Tracks live construction progress using Mapbox API.
+- 🏋️‍♂ **[FIT4You: Gym Management System](https://github.com/suraj126708/FIT4YOU-Website)** – Manages gym memberships, trainers, and user data efficiently.
+
 
 ---
 
