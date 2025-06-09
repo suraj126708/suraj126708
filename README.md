@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves building full-stack web applications and exploring real-world problems through technology. I enjoy working with the **MERN stack** and designing engaging interfaces using tools like **Figma** and **Adobe Illustrator**. Currently, I'm pursuing B.Tech at **VIT Pune**, specializing in **Artificial Intelligence**.
+I'm a passionate developer who loves building full-stack web applications and exploring real-world problems through technology. I enjoy working with the **MERN stack** . Currently, I'm pursuing B.Tech at **VIT Pune**, specializing in **Artificial Intelligence**.
 
 ---
 
