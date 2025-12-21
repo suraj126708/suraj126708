@@ -61,7 +61,7 @@ I'm a passionate developer who loves building full-stack web applications and ex
 
 ## 📫 Let's Connect
 
-- 📧 Email: surajgitte126708@gmail.com  
+- 📧 Email: surajgitte6708@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/surajgitte](https://www.linkedin.com/in/suraj-gitte-7b71a7288/)  
 - 🌐 Portfolio: [Portfolio](suraj-gitte-portfolio.vercel.app)
 
